@@ -1,0 +1,21 @@
+# Core dependencies
+fastapi
+uvicorn
+python-dotenv
+requests
+Pillow  # Downgraded for Python 3.13 compatibility
+pydantic
+httpx
+
+# AI/ML dependencies
+langchain-core
+langchain-groq
+langchain-community
+tavily-python
+
+# UI/Web
+streamlit
+
+# Networking
+python-socketio
+websockets
